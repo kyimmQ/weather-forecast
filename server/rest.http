@@ -1,0 +1,18 @@
+### GET FORECAST
+GET http://localhost:3001/weather?city=Ho20%Chi20%Minh
+### SUBCRIPTION
+POST http://localhost:3001/subscription
+Content-Type: application/json
+
+{
+    "email": "cacphuong.le@gmail.com",
+    "city": "Ho Chi Minh"
+}
+###
+DELETE http://localhost:3001/subscription
+Content-Type: application/json
+
+{
+    "email": "cacphuong.le@gmail.com",
+    "city": "Ho Chi Minh"
+}

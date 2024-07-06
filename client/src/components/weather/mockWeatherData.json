@@ -1,0 +1,93 @@
+[
+  {
+    "location": "Ho Chi Minh City, Vietnam",
+    "date": "2024-07-05",
+    "temp": 28.6,
+    "condition": {
+      "text": "Patchy rain nearby",
+      "icon": "//cdn.weatherapi.com/weather/64x64/day/176.png"
+    },
+    "wspeed": 14.8,
+    "humidity": 71,
+    "uv": 11,
+    "vision": 10
+  },
+  {
+    "location": "Ho Chi Minh City, Vietnam",
+    "date": "2024-07-06",
+    "temp": 29.8,
+    "condition": {
+      "text": "Patchy rain nearby",
+      "icon": "//cdn.weatherapi.com/weather/64x64/day/176.png"
+    },
+    "wspeed": 11.9,
+    "humidity": 67,
+    "uv": 11,
+    "vision": 9.5
+  },
+  {
+    "location": "Ho Chi Minh City, Vietnam",
+    "date": "2024-07-07",
+    "temp": 28.3,
+    "condition": {
+      "text": "Heavy rain",
+      "icon": "//cdn.weatherapi.com/weather/64x64/day/308.png"
+    },
+    "wspeed": 11.2,
+    "humidity": 79,
+    "uv": 6,
+    "vision": 9.6
+  },
+  {
+    "location": "Ho Chi Minh City, Vietnam",
+    "date": "2024-07-08",
+    "temp": 27.8,
+    "condition": {
+      "text": "Moderate rain",
+      "icon": "//cdn.weatherapi.com/weather/64x64/day/302.png"
+    },
+    "wspeed": 16.9,
+    "humidity": 81,
+    "uv": 11,
+    "vision": 9.6
+  },
+  {
+    "location": "Ho Chi Minh City, Vietnam",
+    "date": "2024-07-09",
+    "temp": 27.9,
+    "condition": {
+      "text": "Patchy rain nearby",
+      "icon": "//cdn.weatherapi.com/weather/64x64/day/176.png"
+    },
+    "wspeed": 13.3,
+    "humidity": 78,
+    "uv": 8,
+    "vision": 9.3
+  },
+  {
+    "location": "Ho Chi Minh City, Vietnam",
+    "date": "2024-07-10",
+    "temp": 27.4,
+    "condition": {
+      "text": "Patchy rain nearby",
+      "icon": "//cdn.weatherapi.com/weather/64x64/day/176.png"
+    },
+    "wspeed": 14.8,
+    "humidity": 81,
+    "uv": 6,
+    "vision": 9.9
+  },
+  {
+    "location": "Ho Chi Minh City, Vietnam",
+    "date": "2024-07-11",
+    "temp": 26.8,
+    "condition": {
+      "text": "Moderate rain",
+      "icon": "//cdn.weatherapi.com/weather/64x64/day/302.png"
+    },
+    "wspeed": 20.2,
+    "humidity": 85,
+    "uv": 6,
+    "vision": 9.9
+  }
+]
