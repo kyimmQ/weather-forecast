@@ -75,6 +75,6 @@ BASE_URL=
 ### Run the application
 
 ```bash
-cd student_api
+cd weather-forecast
 docker-compose up
 ```
