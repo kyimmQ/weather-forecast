@@ -1,7 +1,7 @@
 ### GET FORECAST
 GET http://localhost:3001/weather?city=Ho20%Chi20%Minh
 ### SUBCRIPTION
-POST http://localhost:3001/subscription
+POST http://localhost:3000/subscription
 Content-Type: application/json
 
 {

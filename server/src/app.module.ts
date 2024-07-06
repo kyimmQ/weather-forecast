@@ -35,6 +35,7 @@ import { EmailModule } from './email/email.module';
         },
         entities: [Subscription],
         url: `postgresql://${configService.get<string>('DB_USERNAME')}:${configService.get<string>('DB_PASSWORD')}@${configService.get<string>('DB_HOST')}`,
+        synchronize: true,
       }),
       inject: [ConfigService],
     }),
